@@ -12,7 +12,7 @@ public class hashmap1 {
 
         System.out.println(x);
         //使用get()
-        System.out.println(x.get("哆啦A夢") + "A_A");
+        System.out.println(x.get("哆啦") + "A_A");
 
         //loop thorugh Print keys and values
         for (String i : x.keySet()){
