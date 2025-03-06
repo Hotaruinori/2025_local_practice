@@ -10,6 +10,7 @@ public class arraylist1{
         cars.add("Toyota");
         cars.add("BMW");
         cars.add("Honda");
+        cars.add("Banana");
 
         for (String i:cars){
             System.out.println(i);
